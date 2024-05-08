@@ -1,1 +1,1 @@
-# mysql_layoffs
+# Data Analyst Project
